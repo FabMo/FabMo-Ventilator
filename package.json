@@ -10,7 +10,7 @@
   "id": "fabmo-ventilator",
   "devDependencies": {
     "sass": "^1.26.3",
-    "grunt": "^1.1.0",
+    "grunt": "^1.5.2",
     "grunt-zip": "^0.18.2"
   }
 }
